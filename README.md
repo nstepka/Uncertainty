@@ -65,4 +65,4 @@ This repository is licensed under the MIT License.
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact me at [your email address].
+If you have any questions or suggestions, please feel free to contact me on here
