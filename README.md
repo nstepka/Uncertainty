@@ -48,8 +48,6 @@ The notebooks include the following measurable results:
 * Pearson correlation
 * Mean reconstruction error
 * STDV of reconstruction errors
-* Test0 accuracy
-* Test1 accuracy
 
 ## Community Page
 
